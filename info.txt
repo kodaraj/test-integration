@@ -1,1 +1,1 @@
-connected with - https://zuppler-integration.netlify.app/#/
+connected with - https://zuppler-demo-integration.netlify.app/#/
